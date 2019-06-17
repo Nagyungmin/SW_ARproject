@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172745043599",
+    "firebase_url": "https://cnu-ar.firebaseio.com",
+    "project_id": "cnu-ar",
+    "storage_bucket": "cnu-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172745043599:android:7f07251ecffd6886",
+        "android_client_info": {
+          "package_name": "com.example.cnu_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172745043599-5q5vpdr50ve415vj1pbhm834m6i17noq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82w3iNRwAmrbLpBQXjkBCj6HLal5WMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172745043599-5q5vpdr50ve415vj1pbhm834m6i17noq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

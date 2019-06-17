@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="120dp"
+        android:gravity="center"
+        android:text="충남대학교 AR 안내"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="188dp"
+        android:gravity="center"
+        android:text="1. 왼쪽 위 메뉴에서 지도 보기나 장소 검색을 클릭하세요.\n\n
+2. 장소 검색은 건물 명, 번호로 검색 가능합니다.\n\n
+3. 네트워크(데이터, WIFI)와 GPS를 켜주셔야 합니다.\n\n
+4. 카메라 인식을 위해 밝은 곳에서 사용해야 합니다." />
+
+</RelativeLayout>
